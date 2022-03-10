@@ -41,7 +41,7 @@ N - Node.js (JavaScript Runtime)
 ## Backend
 `npm i`
 
-`node index` or `nodemon index`
+`npm run prod` or `npm run dev`
 
 ## Client Browser URL
 [Frontend URL](http://localhost:3000)
